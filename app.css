@@ -1,0 +1,7 @@
+.list{
+    background-color: rgba(100,100,100,0.1);
+    border: 2px solid black;
+    min-height: 40px;
+    padding:4rem; 
+    font-size: xx-large;
+}
